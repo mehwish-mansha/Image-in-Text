@@ -1,0 +1,24 @@
+body{
+    background: rgb(11, 22, 11);
+}
+
+h2{
+    font-family:  sans-serif;
+    text-align: center;
+    font-size: 10rem;
+    background-image: url(Whispers\ of\ the\ forest\ 🙏.jpeg);
+    background-size: cover;
+    display: inline; 
+    background-clip: text;
+    color: transparent;
+    animation: animate 20s linear infinite;
+
+}
+
+@keyframes animate {
+    to{
+        background-position-x: -500px ;
+
+    }
+    
+}
