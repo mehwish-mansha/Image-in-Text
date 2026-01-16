@@ -1,1 +1,3 @@
-## Created image in Text using CSS5 properties.
+## Image in Text
+
+Created image in Text using CSS5 properties.
